@@ -106,16 +106,16 @@ def execute_and_show_chart(python_code, df):
 
 **질문 → 텍스트 답변**
 
-![질문과 답변](/Users/ysyseom/langchain-llm-projects/03-pandas-bot/img/질문과 답변.png)
+![질문과 답변](Users/ysyseom/langchain-llm-projects/03-pandas-bot/img/질문과 답변.png)
 
 **자동 생성된 차트**
 
-![생성된 차트](/Users/ysyseom/langchain-llm-projects/03-pandas-bot/img/생성된 차트.png)
+![생성된 차트](Users/ysyseom/langchain-llm-projects/03-pandas-bot/img/생성된 차트.png)
 
 **에이전트의 추론 과정 (직접 생성한 pandas 코드)**
 
-![에이전트 추론 로그 1](/Users/ysyseom/langchain-llm-projects/03-pandas-bot/img/에이전트추론 1.png)
-![에이전트 추론 로그 2](/Users/ysyseom/langchain-llm-projects/03-pandas-bot/img/에이전트추론 2.png)
+![에이전트 추론 로그 1](Users/ysyseom/langchain-llm-projects/03-pandas-bot/img/에이전트추론 1.png)
+![에이전트 추론 로그 2](Users/ysyseom/langchain-llm-projects/03-pandas-bot/img/에이전트추론 2.png)
 
 ---
 
